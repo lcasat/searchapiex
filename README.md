@@ -1,6 +1,6 @@
 # searchapiexamples
 
-Usage python crawlerrorcounts.py <siteurl> <category> <platform>
+Usage python crawlerrorcounts.py siteurl category platform
 
 Acceptable Categories are:
 
